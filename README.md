@@ -65,10 +65,10 @@ This section is a placeholder for future advanced topics, including deep learnin
 2. Install the required Python libraries:
    ```bash
    pip install -r requirements.txt
-# Navigate to the relevant folder
+## Navigate to the relevant folder
 cd <folder_name>
 
-# Open the Jupyter Notebook of your choice
+## Open the Jupyter Notebook of your choice
 jupyter notebook <notebook_name>.ipynb
 
 # 📘 Contents Overview
