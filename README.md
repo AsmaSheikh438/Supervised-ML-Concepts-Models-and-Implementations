@@ -120,3 +120,8 @@ Contributions are always welcome! If you find any issues or have suggestions, fe
 - LinkedIn: [Asma Sheikh](https://www.linkedin.com/in/AsmaSheikh)
 
 Thank you for visiting this repository! 🌟
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
