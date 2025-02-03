@@ -72,20 +72,24 @@ Future additions will include:
 
 ---
 
-# Clone the repository to your local machine
+## **🚀 Getting Started**
+Follow these steps to start using this repository:
+
+### Clone the repository to your local machine
 git clone https://github.com/AsmaSheikh438/code.git
 
-# Navigate to the project directory
+### Navigate to the project directory
 cd 01_Data_Preprocessing
 
-# Install the required dependencies
+### Install the required dependencies
 pip install -r requirements.txt
 
-# Install Jupyter Notebook (if not already installed)
+### Install Jupyter Notebook (if not already installed)
 pip install jupyter
 
-# Launch Jupyter Notebook
+### Launch Jupyter Notebook
 jupyter notebook DATA_CLEANING.ipynb
+
 
 
 
