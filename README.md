@@ -4,7 +4,7 @@ Welcome to the **Supervised Machine Learning** repository! This repository provi
 
 ---
 
-## **📌 Project Description**
+## **📝 Overview**
 This repository contains essential topics and algorithms used in **Supervised Machine Learning**. I have personally spent over a month working on these concepts—gathering knowledge and applying them to real-world datasets. Each topic is explained thoroughly to help build a strong foundation in machine learning.
 
 ### **🔖 Key Tags**
@@ -78,15 +78,22 @@ Future additions will include:
 ## **🚀 Getting Started**
 Follow these steps to start using this repository:
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/AsmaSheikh438/code.git
-2. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-## Navigate to the relevant folder
-cd <folder_name>
-jupyter notebook <notebook_name>.ipynb
+# Clone the repository to your local machine
+git clone https://github.com/AsmaSheikh438/code.git
+
+# Navigate to the project directory
+cd 01_Data_Preprocessing
+
+# Install the required dependencies
+pip install -r requirements.txt
+
+# Install Jupyter Notebook (if not already installed)
+pip install jupyter
+
+# Launch Jupyter Notebook
+jupyter notebook DATA_CLEANING.ipynb
+
+
 
 
 # 📘 Contents Overview
@@ -125,7 +132,7 @@ Understand:
 - Techniques for balancing datasets.
 - Strategies to handle imbalanced classes.
 
-## 📈 Future Enhancements
+## 📌 Upcoming Features
 - Add Advanced Techniques like ensemble models (e.g., Random Forest, Gradient Boosting).
 - Include Unsupervised Learning concepts for clustering and dimensionality reduction.
 - Integrate Time Series Analysis methods.
@@ -134,7 +141,7 @@ Understand:
 ## 🤝 Contributions
 Contributions are always welcome! If you find any issues or have suggestions, feel free to open an issue or submit a pull request.
 
-## 🛠️ Contact
+## 📬 Connect with Me
 - GitHub: [AsmaSheikh438](https://github.com/AsmaSheikh438)
 - LinkedIn: [Asma Sheikh](https://www.linkedin.com/in/AsmaSheikh)
 
