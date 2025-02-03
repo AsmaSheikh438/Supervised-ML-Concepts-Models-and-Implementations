@@ -29,17 +29,17 @@ This section focuses on preparing raw data for machine learning models by handli
 This section explores key algorithms in supervised learning with their theoretical explanations and practical implementations.
 
 #### **📌 Classification Algorithms**
-- **[Decision Tree (Pre & Post Pruning).ipynb](./Classification/Decision Tree.ipynb)** → Explains pruning techniques.
-- **[Logistic Regression.ipynb](./Classification/Logistic Regression.ipynb)** → Covers binary and multiclass classification.
-- **[K-Nearest Neighbors (KNN).ipynb](./Classification/KNN.ipynb)** → Implementing KNN for classification tasks.
-- **[Naive Bayes.ipynb](./Classification/Naive Bayes.ipynb)** → A probabilistic classification model.
-- **[Support Vector Machine (SVM).ipynb](./Classification/SVM.ipynb)** → Using SVM for classification problems.
+- **[Decision Tree (Pre & Post Pruning).ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/DECISION%20TREE%20(%20Classification%20)%20PRE%20%26%20POST%20PRUINING.ipynb)** → Explains pruning techniques.
+- **[Logistic Regression.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/LOGESTIC%20REGRESSION%20MODEL%20.ipynb)** → Covers binary and multiclass classification.
+- **[K-Nearest Neighbors (KNN).ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/K-Nearest%20Neighbours%20(CLASSIFICATION).ipynb)** → Implementing KNN for classification tasks.
+- **[Naive Bayes.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/NAIVE%20BAYES.ipynb)** → A probabilistic classification model.
+- **[Support Vector Machine (SVM) (Classification).ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/Support%20Vactor%20Machine%20SVM%20(CLASSIFICATION).ipynb)** → Using SVM for classification problems.
 
 #### **📌 Regression Algorithms**
-- **[Simple Linear Regression.ipynb](./Regression/Simple Linear Regression.ipynb)** → Explains linear regression models.
-- **[Multiple Linear Regression.ipynb](./Regression/Multiple Linear Regression.ipynb)** → Covers regression with multiple predictors.
-- **[Decision Tree Regression.ipynb](./Regression/Decision Tree Regression.ipynb)** → Decision tree for regression tasks.
-- **[Support Vector Regression (SVR).ipynb](./Regression/SVR.ipynb)** → SVM for regression problems.
+- **[Decision Tree (Regression).ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/DECISION%20TREE%20(%20Regression%20).ipynb)** → Decision tree for regression tasks.
+- **[K-Nearest Neighbors (KNN) Regression.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/K-Nearest%20Neighbours%20(REGRESSION).ipynb)** → Implementing KNN for regression tasks.
+- **[Support Vector Machine (SVM) Regression.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Regression/Support%20Vector%20Machine%20SVM%20(REGRESSION).ipynb)** → Using SVM for regression problems.
+
 
 ### **3️⃣ Model Evaluation & Optimization**
 This section covers techniques for evaluating and optimizing machine learning models to improve performance.
