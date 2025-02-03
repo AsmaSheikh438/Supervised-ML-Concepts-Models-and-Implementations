@@ -17,13 +17,14 @@ The repository is structured into various sections covering everything from data
 
 ### **1️⃣ Data Preprocessing**
 This section focuses on preparing raw data for machine learning models by handling missing values, scaling, encoding, and more. Key topics include:
-- **[DATA_CLEANING.ipynb](./Data Preprocessing/DATA_CLEANING.ipynb)** → Techniques for cleaning and preparing datasets.
-- **[FEATURE SCALING (NORMALIZATION).ipynb](./Data Preprocessing/FEATURE SCALING (NORMALIZATION).ipynb)** → Explanation of normalization techniques.
-- **[FEATURE SCALING (STANDARDIZATION).ipynb](./Data Preprocessing/FEATURE SCALING (STANDARDIZATION).ipynb)** → Demonstrates standardization methods.
-- **[HANDLING DUPLICATE DATA.ipynb](./Data Preprocessing/HANDLING DUPLICATE DATA.ipynb)** → Identifying and resolving duplicate records.
-- **[ENCODING TECHNIQUES.ipynb](./Data Preprocessing/ENCODING TECHNIQUES.ipynb)** → Label encoding, one-hot encoding, and ordinal encoding.
-- **[OUTLIER DETECTION USING Z-SCORE.ipynb](./Data Preprocessing/OUTLIER DETECTION USING Z-SCORE.ipynb)** → Detecting and handling outliers.
-- **[DATA TYPE MANAGEMENT.ipynb](./Data Preprocessing/DATA TYPE MANAGEMENT.ipynb)** → Handling type conversions and inconsistencies.
+- **[DATA CLEANING.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/01_Data_Preprocessing/DATA%20CLEANING.ipynb)** → Techniques for cleaning and preparing datasets.
+- **[FEATURE SCALING (NORMALIZATION).ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/01_Data_Preprocessing/FEATURE%20SCALING%20(NORMALIZATION).ipynb)** → Explanation of normalization techniques.
+- **[FEATURE SCALING (STANDARDIZATION).ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/01_Data_Preprocessing/FEATURE%20SCALING%20(STANDARDIZATION).ipynb)** → Demonstrates standardization methods.
+- **[HANDLING DUPLICATE DATA.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/01_Data_Preprocessing/HANDLING%20DUPLICATE%20DATA.ipynb)** → Identifying and resolving duplicate records.
+- **[ENCODING TECHNIQUES.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/01_Data_Preprocessing/LABEL%20ENCODING.ipynb)** → Label encoding, one-hot encoding, and ordinal encoding.
+- **[OUTLIER DETECTION USING Z-SCORE.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/01_Data_Preprocessing/OUTLIER%20REMOVAL%20USING%20Z%20SCORE.ipynb)** → Detecting and handling outliers.
+- **[DATA TYPE MANAGEMENT.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/01_Data_Preprocessing/REPLACE%20AND%20DATA%20TYPE%20CHANGE.ipynb)** → Handling type conversions and inconsistencies.
+
 
 ### **2️⃣ Supervised Machine Learning**
 This section explores key algorithms in supervised learning with their theoretical explanations and practical implementations.
@@ -44,16 +45,18 @@ This section explores key algorithms in supervised learning with their theoretic
 ### **3️⃣ Model Evaluation & Optimization**
 This section covers techniques for evaluating and optimizing machine learning models to improve performance.
 
-- **[Confusion Matrix.ipynb](./Model Evaluation/Confusion Matrix.ipynb)** → Understanding classification performance.
-- **[Cost Function.ipynb](./Model Evaluation/Cost Function.ipynb)** → Explanation of loss functions.
+- **[Confusion Matrix.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/03_Model_Evaluation_and_Optimization/CONFUSION%20MATRIX.ipynb)** → Understanding classification performance.
+- **[Cost Function.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/03_Model_Evaluation_and_Optimization/COST%20FUNCTION.ipynb)** → Explanation of loss functions.
 - **[Cross-Validation.ipynb](./Model Evaluation/Cross-Validation.ipynb)** → Methods for improving model generalization.
-- **[Regularization (L1 & L2).ipynb](./Model Evaluation/Regularization.ipynb)** → Techniques to reduce overfitting.
-- **[Hyperparameter Tuning.ipynb](./Model Evaluation/Hyperparameter Tuning.ipynb)** → Grid search and random search methods.
+- **[Regularization (L1 & L2).ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/03_Model_Evaluation_and_Optimization/REGULARIZATION%20(L1%20&%20L2).ipynb)** → Techniques to reduce overfitting.
+- **[Hyperparameter Tuning.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/03_Model_Evaluation_and_Optimization/Hyperparameter-TUNING%2C%20MODEL%20PARAMETER.ipynb)** → Grid search and random search methods.
 
 ### **4️⃣ Imbalanced Data Handling**
 Addresses the challenges of working with imbalanced datasets and provides solutions.
-- **[Balancing Dataset.ipynb](./Imbalanced Data/Balancing Dataset.ipynb)** → Oversampling and undersampling techniques.
-- **[Handling Imbalanced Data.ipynb](./Imbalanced Data/Handling Imbalanced Data.ipynb)** → Strategies to manage class imbalance.
+
+- **[Balancing Dataset.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/04_Imbalanced_data/BALANCING%20OUR%20DATA.ipynb)** → Oversampling and undersampling techniques.
+- **[Handling Imbalanced Data.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/04_Imbalanced_data/EMBALANCED%20DATASET.ipynb)** → Strategies to manage class imbalance.
+
 
 ### **5️⃣ Advanced Techniques (Coming Soon 🚀)**
 Future additions will include:
