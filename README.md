@@ -5,7 +5,7 @@ Welcome to the **Supervised Machine Learning** repository! This repository provi
 
 ---
 
-## **📌 Project Description**
+## 📌 Project Description
 This repository contains essential topics and algorithms used in **Supervised Machine Learning**. I have personally dedicated over a month to studying and implementing these concepts using real-world datasets. Each topic is thoroughly explained to provide a strong foundation in machine learning.
 
 ### **🔖 Key Tags**
@@ -61,7 +61,7 @@ Addresses the challenges of working with imbalanced datasets and provides soluti
 
 ### **5️⃣ Advanced Techniques (Coming Soon 🚀)**
 Future additions will include:
-- **Ensemble Methods** (Random Forest, Gradient Boosting, XGBoost)
+- **Ensemble Methods** (Random Forest, Gradient Boosting, XGBoost)  
 - **Unsupervised Learning** (Clustering, Dimensionality Reduction)
 - **Time Series Analysis**
 - **Model Deployment using Flask/Streamlit**
@@ -110,11 +110,12 @@ Learn how to:
 ## 2️⃣ Supervised ML Models
 
 ### Classification:
-- Logistic Regression
-- Decision Trees
-- SVMs
-- KNN
-- Naive Bayes
+- Logistic Regression  
+- Decision Trees  
+- SVMs  
+- KNN, and  
+- Naive Bayes  
+
 
 ### Regression:
 - Simple & Multiple Linear Regression
