@@ -4,13 +4,15 @@ Welcome to the **Supervised Machine Learning** repository! This repository provi
 
 ---
 
-## **📝 Overview**
-This repository contains essential topics and algorithms used in **Supervised Machine Learning**. I have personally spent over a month working on these concepts—gathering knowledge and applying them to real-world datasets. Each topic is explained thoroughly to help build a strong foundation in machine learning.
+## **📌 Project Description**
+This repository contains essential topics and algorithms used in **Supervised Machine Learning**. I have personally dedicated over a month to studying and implementing these concepts using real-world datasets. Each topic is thoroughly explained to provide a strong foundation in machine learning.
 
 ### **🔖 Key Tags**
 `#SupervisedLearning` `#MachineLearning` `#Classification` `#Regression` `#DataPreprocessing` `#Python` `#AI` `#SelfMade` `#DeepLearning`
 
 ---
+## **📂 Repository Structure**
+The repository is structured into various sections, covering everything from data preprocessing to advanced model evaluation techniques.
 
 ### **1️⃣ Data Preprocessing**
 This section focuses on preparing raw data for machine learning models by handling missing values, scaling, encoding, and more. Key topics include:
