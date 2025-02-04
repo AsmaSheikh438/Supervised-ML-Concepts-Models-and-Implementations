@@ -31,7 +31,7 @@ This section focuses on preparing raw data for machine learning models by handli
 This section explores key algorithms in supervised learning with their theoretical explanations and practical implementations.
 
 #### **📌 Classification Algorithms**
-- **[Decision Tree (Pre & Post Pruning).ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/DECISION%20TREE%20(%20Classification%20)%20PRE%20%26%20POST%20PRUNING.ipynb)** → Explains pruning techniques.
+- **[Decision Tree (Pre & Post Pruning).ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/DECISION%20TREE%20(%20Classification%20)%20PRE%20&%20POST%20PRUNING.ipynb)** → Explains pruning techniques.
 - **[Logistic Regression.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/LOGISTIC%20REGRESSION%20MODEL%20.ipynb)** → Covers binary and multiclass classification.
 - **[K-Nearest Neighbors (KNN).ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/K-Nearest%20Neighbours%20(CLASSIFICATION).ipynb)** → Implementing KNN for classification tasks.
 - **[Naive Bayes.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/02_supervised_ML/Classification/NAIVE%20BAYES.ipynb)** → A probabilistic classification model.
@@ -58,7 +58,6 @@ Addresses the challenges of working with imbalanced datasets and provides soluti
 
 - **[Balancing Dataset.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/04_Imbalanced_data/BALANCING%20OUR%20DATA.ipynb)** → Oversampling and undersampling techniques.
 - **[Handling Imbalanced Data.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/04_Imbalanced_data/IMBALANCED%20DATASET.ipynb)** → Strategies to manage class imbalance.
-
 
 ### **5️⃣ Advanced Techniques (Coming Soon 🚀)**
 Future additions will include:
