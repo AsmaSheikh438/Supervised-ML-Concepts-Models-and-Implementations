@@ -47,7 +47,8 @@ This section covers techniques for evaluating and optimizing machine learning mo
 
 - **[Confusion Matrix.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/03_Model_Evaluation_and_Optimization/CONFUSION%20MATRIX.ipynb)** → Understanding classification performance.
 - **[Cost Function.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/03_Model_Evaluation_and_Optimization/COST%20FUNCTION.ipynb)** → Explanation of loss functions.
-- **[Cross-Validation.ipynb](./Model Evaluation/Cross-Validation.ipynb)** → Methods for improving model generalization.
+- **[Cross-Validation.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/03_Model_Evaluation_and_Optimization/CROSS-VALIDATION.ipynb)** → Evaluating model performance using cross-validation techniques.
+
 - **[Regularization (L1 & L2).ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/03_Model_Evaluation_and_Optimization/REGULARIZATION%20(L1%20&%20L2).ipynb)** → Techniques to reduce overfitting.
 - **[Hyperparameter Tuning.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/03_Model_Evaluation_and_Optimization/Hyperparameter-TUNING%2C%20MODEL%20PARAMETER.ipynb)** → Grid search and random search methods.
 
