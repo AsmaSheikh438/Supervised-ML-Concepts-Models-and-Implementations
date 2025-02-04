@@ -59,6 +59,7 @@ Addresses the challenges of working with imbalanced datasets and provides soluti
 - **[Balancing Dataset.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/04_Imbalanced_data/BALANCING%20OUR%20DATA.ipynb)** → Oversampling and undersampling techniques.
 - **[Handling Imbalanced Data.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/04_Imbalanced_data/IMBALANCED%20DATASET.ipynb)** → Strategies to manage class imbalance.
 
+
 ### **5️⃣ Advanced Techniques (Coming Soon 🚀)**
 Future additions will include:
 - **Ensemble Methods** (Random Forest, Gradient Boosting, XGBoost)  
