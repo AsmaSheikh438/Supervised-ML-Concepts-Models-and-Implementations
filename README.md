@@ -52,7 +52,7 @@ This section covers techniques for evaluating and optimizing machine learning mo
 
 - **[Hyperparameter Tuning.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/03_Model_Evaluation_and_Optimization/Hyperparameter-TUNING%2CMODEL%20PARAMETER.ipynb)** → Grid search and random search methods.
 
-- **[Regularization (L1 & L2)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/03_Model_Evaluation_and_Optimization/REGULARIZATION%20(L1%20%26%20L2).ipynb)** → Techniques to reduce overfitting.
+**[Regularization (L1 & L2)](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/03_Model_Evaluation_and_Optimization/REGULARIZATION%20(L1%20&%20L2).ipynb)** → Techniques to reduce overfitting.
 
 ### **4️⃣ Imbalanced Data Handling**
 Addresses the challenges of working with imbalanced datasets and provides solutions.
