@@ -1,7 +1,7 @@
 
 # **Supervised Machine Learning Concepts and Implementations**
 
-Welcome to the **Supervised Machine Learning** repository! This repository provides a comprehensive understanding of supervised learning concepts, from theoretical foundations to practical implementations. Each topic is carefully explained, and implementation steps are detailed with supporting visuals for clarity.
+Welcome to my Supervised Machine Learning repository! In this repository, I share my in-depth journey of understanding and implementing various supervised learning algorithms. Each concept is paired with hands-on code examples and detailed explanations, created with real-world datasets to ensure you get practical experience.
 
 ---
 
