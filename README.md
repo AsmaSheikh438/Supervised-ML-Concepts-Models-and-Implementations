@@ -23,7 +23,7 @@ This section focuses on preparing raw data for machine learning models by handli
 - **[HANDLING DUPLICATE DATA.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/01_Data_Preprocessing/HANDLING%20DUPLICATE%20DATA.ipynb)** → Identifying and resolving duplicate records.
 - **[ENCODING TECHNIQUES.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/01_Data_Preprocessing/LABEL%20ENCODING.ipynb)** → Label encoding, one-hot encoding, and ordinal encoding.
 - **[OUTLIER DETECTION USING Z-SCORE.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/01_Data_Preprocessing/OUTLIER%20REMOVAL%20USING%20Z%20SCORE.ipynb)** → Detecting and handling outliers.
-- **[DATA TYPE MANAGEMENT.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/01_Data_Preprocessing/REPLACE%20AND%20DATA%20TYPE%20CHANGE.ipynb)** → Handling type conversions and inconsistencies.
+- **[REPLACE AND DATA TYPE CHANGE.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/01_Data_Preprocessing/REPLACE%20AND%20DATA%20TYPE%20CHANGE.ipynb)** → Handling type conversions and inconsistencies.
 
 
 ### **2️⃣ Supervised Machine Learning**
