@@ -56,8 +56,8 @@ This section covers techniques for evaluating and optimizing machine learning mo
 ### **4️⃣ Imbalanced Data Handling**
 Addresses the challenges of working with imbalanced datasets and provides solutions.
 
-- **[Balancing Dataset.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/04_Imbalanced_data/BALANCING%20OUR%20DATA.ipynb)** → Oversampling and undersampling techniques.
-- **[Handling Imbalanced Data.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/04_Imbalanced_data/EMBALANCED%20DATASET.ipynb)** → Strategies to manage class imbalance.
+- **[04_Imbalanced_data/BALANCING OUR DATA.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/04_Imbalanced_data/BALANCING%20OUR%20DATA.ipynb)** → Oversampling and undersampling techniques.
+- **[04_Imbalanced_data/EMBALANCED DATASET.ipynb](https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations/blob/main/04_Imbalanced_data/EMBALANCED%20DATASET.ipynb)** → Strategies to manage class imbalance.
 
 
 
