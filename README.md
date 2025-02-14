@@ -83,10 +83,10 @@ Future additions will include:
 Follow these steps to start using this repository:
 
 ### Clone the repository to your local machine
+```bash
 git clone https://github.com/AsmaSheikh438/Supervised-ML-Concepts-Models-and-Implementations.git
 
-
-### Navigate to the project directory
+### 📂 Navigate to the project directory
 cd 01_Data_Preprocessing
 
 ### Install the required dependencies
