@@ -96,10 +96,10 @@ pip install -r requirements.txt
 pip install jupyter
 
 ### Launch Jupyter Notebook
+ ```bash
 jupyter notebook DATA_CLEANING.ipynb
+```
 
-
----
 
 # 📘 Contents Overview
 
